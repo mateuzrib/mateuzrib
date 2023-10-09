@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-9608a1231/)
 
 ![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzrib&show_icons=true&theme=tokyonight)
-## Technologies that I use in my daily routine
+## Toolbox
 <div style="inline_block"><br/>
     <img align="center" alt="python-logo" src="https://img.shields.io/badge/Python-010101?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="python-logo" src="https://img.shields.io/badge/Rust-010101?style=for-the-badge&logo=rust&logoColor=white">
