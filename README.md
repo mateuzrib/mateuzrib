@@ -1,16 +1,13 @@
-### Hi there 👋
+### I'm Mateus Ribeiro! 🌌
 
-<!--
-**mateuzrib/mateuzrib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-010101?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateuzrib/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-010101?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-ribeiro-9608a1231/)
 
-Here are some ideas to get you started:
+![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mateuzrib&show_icons=true&theme=tokyonight)
+## Technologies that I use in my daily routine
+<div style="inline_block"><br/>
+    <img align="center" alt="python-logo" src="https://img.shields.io/badge/Python-010101?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="python-logo" src="https://img.shields.io/badge/Rust-010101?style=for-the-badge&logo=rust&logoColor=white">
+</div><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
