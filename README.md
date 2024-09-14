@@ -1,5 +1,5 @@
 ## Hi! Have you been searching for me? No worries, I am always here! 🌌
-I'm <strong>Mateus Ribeiro</strong>, a front-end development enthusiast eager to contribute to your projects. Although there are still things I need to familiarize myself with, I am open to collaborating and committed to putting in the effort to achieve the best results.
+I'm <strong>Mateus Ribeiro</strong>, a fullstack development enthusiast eager to contribute to your projects. Although there are still things I need to familiarize myself with, I am open to collaborating and committed to putting in the effort to achieve the best results.
 
 ## Toolbox
 <div>
