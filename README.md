@@ -11,7 +11,6 @@ I'm <strong>Mateus Ribeiro</strong>, a fullstack development enthusiast eager to
     <img align="center" alt="solidity-logo" src="https://img.shields.io/badge/Solidity-010101?style=for-the-badge&logo=solidity&logoColor=white">
     <img align="center" alt="html5-logo" src="https://img.shields.io/badge/HTML-010101?style=for-the-badge&logo=html5&logoColor=white">
     <img align="center" alt="css3-logo" src="https://img.shields.io/badge/CSS-010101?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="shadcn-logo" src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white">
 </div>
 
 ## Social
